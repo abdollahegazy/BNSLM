@@ -1,3 +1,11 @@
+/data/networks/
+/data/jsons/
+/data/descriptions/
+/data/list
+/data/temp.py
+
+*.temp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
